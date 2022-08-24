@@ -8,16 +8,6 @@ from datetime import date
 from datetime import datetime
 import proxy_rotation
 
-# SQL should have date and time but just incase
-
-# To Do here
-#  - remove excessive try blocks
-# Make code cleaner
-# Setup the sms function
-# Add final comments to everything
-# Work on additional libraries
-
-
 
 def url_getter(url):
 
